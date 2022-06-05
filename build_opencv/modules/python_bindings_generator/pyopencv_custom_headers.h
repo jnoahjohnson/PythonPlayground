@@ -1,0 +1,13 @@
+//user-defined headers
+#include "/Users/noahjohnson/Dev/PythonPlayground/opencv/modules/core/misc/python/pyopencv_async.hpp"
+#include "/Users/noahjohnson/Dev/PythonPlayground/opencv/modules/core/misc/python/pyopencv_cuda.hpp"
+#include "/Users/noahjohnson/Dev/PythonPlayground/opencv/modules/core/misc/python/pyopencv_umat.hpp"
+#include "/Users/noahjohnson/Dev/PythonPlayground/opencv/modules/flann/misc/python/pyopencv_flann.hpp"
+#include "/Users/noahjohnson/Dev/PythonPlayground/opencv/modules/ml/misc/python/pyopencv_ml.hpp"
+#include "/Users/noahjohnson/Dev/PythonPlayground/opencv/modules/dnn/misc/python/pyopencv_dnn.hpp"
+#include "/Users/noahjohnson/Dev/PythonPlayground/opencv/modules/features2d/misc/python/pyopencv_features2d.hpp"
+#include "/Users/noahjohnson/Dev/PythonPlayground/opencv/modules/videoio/misc/python/pyopencv_videoio.hpp"
+#include "/Users/noahjohnson/Dev/PythonPlayground/opencv/modules/objdetect/misc/python/pyopencv_objdetect.hpp"
+#include "/Users/noahjohnson/Dev/PythonPlayground/opencv/modules/stitching/misc/python/pyopencv_stitching.hpp"
+#include "/Users/noahjohnson/Dev/PythonPlayground/opencv/modules/video/misc/python/pyopencv_video.hpp"
+#include "/Users/noahjohnson/Dev/PythonPlayground/opencv/modules/gapi/misc/python/pyopencv_gapi.hpp"
